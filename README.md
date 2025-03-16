@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Go and more about Cyber Security
+- 🌱 I’m currently learning Go at boot.dev and more about Cyber Security using roadmap.sh
 
 [![roadmap.sh](https://roadmap.sh/card/wide/65dcd166aec67f2e2aa19af8?variant=dark&roadmaps=cyber-security)](https://roadmap.sh)
 
