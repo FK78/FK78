@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Go and more about Cyber Security
+
+[![roadmap.sh](https://roadmap.sh/card/wide/65dcd166aec67f2e2aa19af8?variant=dark&roadmaps=cyber-security)](https://roadmap.sh)
+
 <!--
 **FK78/FK78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
