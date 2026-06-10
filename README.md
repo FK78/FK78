@@ -1,16 +1,17 @@
-## Hi there 👋
+## 🚀 Currently working on
 
-<!--
-**FK78/FK78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A cloud-native fraud detection platform that uses GenAI to protect small businesses from internal expense fraud. Built on AWS with a strong focus on security, observability, and CI/CD.
 
-Here are some ideas to get you started:
+## 🌱 Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **AWS cloud-native architecture** - serverless, containers, event-driven patterns, and infrastructure as code (CDK)
+- **Generative AI & RAG** - embedding pipelines, prompt engineering, and responsible AI safety (Bedrock, OpenSearch)
+- **Authentication & security** - OAuth2/JWT, Cognito, threat modelling, and secure system design
+- **Backend design** - distributed workflows, single-table DynamoDB modelling, and contract testing
+- **Go** - building performant backend services and CLI tools
+
+## 👯 Open to collaborating on
+
+- Open-source projects that have real-world impact
+- **Cloud-native reference architectures** and developer tooling
+- Projects where I can contribute **backend engineering**, **infrastructure as code**, or **security hardening**
