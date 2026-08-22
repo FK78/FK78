@@ -1,6 +1,6 @@
 ## 🚀 Currently working on
 
-**[Agora](https://github.com/USER/agora)** - an e-commerce platform split into six independent
+**[Agora](https://github.com/FK78/agora)** - an e-commerce platform split into six independent
 services, used as a vehicle for the problems that only show up once you split things up:
 saga orchestration with compensating actions, the transactional outbox, idempotent payment
 handling, and a single trace that survives a trip through a message queue.
